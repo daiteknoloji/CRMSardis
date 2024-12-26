@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRMSardis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a98e7563432971942d4892ce3361027038c905b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2318700781283885329539ddaa070b964a1cf765")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRMSardis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRMSardis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
