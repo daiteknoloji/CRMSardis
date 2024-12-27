@@ -13,11 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRMSardis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2318700781283885329539ddaa070b964a1cf765")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
->>>>>>> 710e3ed (Proje dosyalarını ekledim)
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05e98e103cd2eb216813eb4dd6649b37b96e703b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRMSardis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRMSardis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

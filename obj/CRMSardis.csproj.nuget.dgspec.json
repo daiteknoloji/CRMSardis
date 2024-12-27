@@ -51,7 +51,6 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-<<<<<<< HEAD
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -60,8 +59,6 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
-=======
->>>>>>> 710e3ed (Proje dosyalarını ekledim)
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -71,7 +68,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
-<<<<<<< HEAD
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -80,8 +76,6 @@
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[9.0.0, )"
-=======
->>>>>>> 710e3ed (Proje dosyalarını ekledim)
             }
           },
           "imports": [
