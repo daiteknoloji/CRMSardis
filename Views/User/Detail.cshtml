@@ -1,0 +1,21 @@
+@model CRMSardis.Models.User
+
+@{
+    ViewData["Title"] = "Kullanıcı Detayları";
+}
+
+<div class="container mx-auto px-4 py-6">
+    <h1 class="text-2xl font-bold mb-4">Kullanıcı Detayları</h1>
+
+    <div class="bg-white shadow-lg rounded-lg p-6">
+        <h2 class="text-xl font-semibold mb-4">@Model.Name @Model.Surname</h2>
+        <p><strong>E-posta:</strong> @Model.Email</p>
+        <p><strong>Rol:</strong> @Model.Role</p>
+        <p><strong>Oluşturulma Tarihi:</strong> @Model.CreatedAt.ToString("dd MMM yyyy")</p>
+
+        <div class="mt-4">
+            <a href="/User/Edit/@Model.Id" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Düzenle</a>
+            <a href="/User/Index" class="ml-2 bg-gray-500 text-white px-4 py-2 rounded hover:bg-gray-600">Geri Dön</a>
+        </div>
+    </div>
+</div>

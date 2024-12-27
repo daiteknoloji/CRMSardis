@@ -1,0 +1,46 @@
+@model IEnumerable<CRMSardis.Models.User>
+
+@{
+    ViewData["Title"] = "Kullanıcı Yönetimi";
+}
+
+<div class="container mx-auto px-4 py-6">
+    <h1 class="text-2xl font-bold mb-4">Kullanıcı Yönetimi</h1>
+
+    <!-- Rollere Göre Filtreleme -->
+    <div class="flex space-x-4 mb-4">
+        <a href="/User/FilterByRole?role=Admin" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Admin</a>
+        <a href="/User/FilterByRole?role=Sales" class="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600">Satış</a>
+        <a href="/User/FilterByRole?role=HR" class="bg-yellow-500 text-white px-4 py-2 rounded hover:bg-yellow-600">HR</a>
+    </div>
+
+    <!-- Kullanıcı Tablosu -->
+    <table class="min-w-full border-collapse border border-gray-300 bg-white shadow-lg rounded-lg">
+        <thead>
+            <tr class="bg-gray-100">
+                <th class="border border-gray-300 px-4 py-2">#</th>
+                <th class="border border-gray-300 px-4 py-2">Ad</th>
+                <th class="border border-gray-300 px-4 py-2">Soyad</th>
+                <th class="border border-gray-300 px-4 py-2">E-posta</th>
+                <th class="border border-gray-300 px-4 py-2">Rol</th>
+                <th class="border border-gray-300 px-4 py-2">İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr class="hover:bg-gray-100">
+                    <td class="border border-gray-300 px-4 py-2">@user.Id</td>
+                    <td class="border border-gray-300 px-4 py-2">@user.Name</td>
+                    <td class="border border-gray-300 px-4 py-2">@user.Surname</td>
+                    <td class="border border-gray-300 px-4 py-2">@user.Email</td>
+                    <td class="border border-gray-300 px-4 py-2">@user.Role</td>
+                    <td class="border border-gray-300 px-4 py-2 flex space-x-2">
+                        <a href="/User/Edit/@user.Id" class="text-blue-500 hover:underline">Düzenle</a>
+                        <a href="/User/Delete/@user.Id" class="text-red-500 hover:underline">Sil</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
