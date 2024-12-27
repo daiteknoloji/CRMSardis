@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,6 +8,15 @@ using CRMSardis.Models;
 namespace CRMSardis.Controllers
 {
     public class UserController
+=======
+using CRMSardis.Data;
+using Microsoft.AspNetCore.Mvc;
+using System.Linq;
+
+namespace CRMSardis.Controllers
+{
+    public class UserController : Controller
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
     {
         private readonly AppDbContext _context;
 
@@ -15,6 +25,7 @@ namespace CRMSardis.Controllers
             _context = context;
         }
 
+<<<<<<< HEAD
         // Kullanıcıları Listeleme
         public List<User> GetAllUsers()
         {
@@ -70,6 +81,14 @@ namespace CRMSardis.Controllers
             {
                 throw new Exception("Kullanıcı bulunamadı.");
             }
+=======
+        // GET: /User
+        public IActionResult Index()
+        {
+            // Veritabanındaki tüm kullanıcıları getir
+            var users = _context.Users.ToList();
+            return View(users);
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         }
     }
 }

@@ -1,10 +1,13 @@
 {
   "Files": [
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CRMSardis.bundle.scp.css",
       "PackagePath": "staticwebassets\\CRMSardis.bdhd1sk5nq.bundle.scp.css"
     },
     {
+=======
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "Id": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\wwwroot\\css\\output.css",
       "PackagePath": "staticwebassets\\css\\output.css"
     },

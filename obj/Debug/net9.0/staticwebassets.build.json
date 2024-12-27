@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "YHbnawApl5AKz+zHsk4M42hnrlyellMsZUuK5JVzW3o=",
+=======
+  "Hash": "oh2p3KhhTV8lhfQ2oN6hB0Tq2OPlrzOoEMLP8c5I4VI=",
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
   "Source": "CRMSardis",
   "BasePath": "_content/CRMSardis",
   "Mode": "Default",
@@ -164,12 +168,20 @@
       "OriginalItemSpec": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\2py1szxx81-fesj4qlfpv.gz",
+=======
+      "Identity": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\2py1szxx81-id692dc2gy.gz",
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "SourceId": "CRMSardis",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRMSardis",
+<<<<<<< HEAD
       "RelativePath": "css/output#[.{fingerprint=fesj4qlfpv}]?.css.gz",
+=======
+      "RelativePath": "css/output#[.{fingerprint=id692dc2gy}]?.css.gz",
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -178,8 +190,13 @@
       "RelatedAsset": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\wwwroot\\css\\output.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
+<<<<<<< HEAD
       "Fingerprint": "ndtlureku6",
       "Integrity": "BW76GEsDq9W6uzbrvYutrHKwc4tMVINUQAVHOoueuMI=",
+=======
+      "Fingerprint": "rau43z5676",
+      "Integrity": "Y5EEF/RfVks8l3iFTTSq+yJi4Ff7vVPOLJIpLC0WEb0=",
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\wwwroot\\css\\output.css"
@@ -773,6 +790,7 @@
       "OriginalItemSpec": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\iwdvshgxxg-bdhd1sk5nq.gz",
       "SourceId": "CRMSardis",
       "SourceType": "Computed",
@@ -794,6 +812,8 @@
       "OriginalItemSpec": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CRMSardis.bundle.scp.css"
     },
     {
+=======
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "Identity": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\iymoq3jawe-j5mq2jizvt.gz",
       "SourceId": "CRMSardis",
       "SourceType": "Discovered",
@@ -1361,6 +1381,7 @@
       "OriginalItemSpec": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\xhvhk6e2th-bdhd1sk5nq.gz",
       "SourceId": "CRMSardis",
       "SourceType": "Computed",
@@ -1382,6 +1403,8 @@
       "OriginalItemSpec": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CRMSardis.styles.css"
     },
     {
+=======
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "Identity": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\y407jo80yz-mlv21k5csn.gz",
       "SourceId": "CRMSardis",
       "SourceType": "Discovered",
@@ -1403,6 +1426,7 @@
       "OriginalItemSpec": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CRMSardis.styles.css",
       "SourceId": "CRMSardis",
       "SourceType": "Computed",
@@ -1445,6 +1469,8 @@
       "OriginalItemSpec": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CRMSardis.bundle.scp.css"
     },
     {
+=======
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "Identity": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\wwwroot\\css\\output.css",
       "SourceId": "CRMSardis",
       "SourceType": "Discovered",
@@ -1459,8 +1485,13 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+<<<<<<< HEAD
       "Fingerprint": "fesj4qlfpv",
       "Integrity": "h1JA5x/6AgVDdJcY7p0oEAGC4sacKILNNCzOP2d8rlM=",
+=======
+      "Fingerprint": "id692dc2gy",
+      "Integrity": "hl7drqW13K9kbjmjgUTk6C3kFYN8xvyEkY9HOSq+HEc=",
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\output.css"
@@ -2812,6 +2843,7 @@
   ],
   "Endpoints": [
     {
+<<<<<<< HEAD
       "Route": "CRMSardis.bdhd1sk5nq.bundle.scp.css",
       "AssetFile": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\iwdvshgxxg-bdhd1sk5nq.gz",
       "Selectors": [
@@ -3410,11 +3442,19 @@
     {
       "Route": "css/output.css",
       "AssetFile": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\2py1szxx81-fesj4qlfpv.gz",
+=======
+      "Route": "css/output.css",
+      "AssetFile": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\2py1szxx81-id692dc2gy.gz",
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
+<<<<<<< HEAD
           "Quality": "0.000331235508"
+=======
+          "Quality": "0.000185666543"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         }
       ],
       "ResponseHeaders": [
@@ -3424,6 +3464,7 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "3018"
         },
         {
@@ -3433,6 +3474,17 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 26 Dec 2024 15:40:46 GMT"
+=======
+          "Value": "5385"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y5EEF/RfVks8l3iFTTSq+yJi4Ff7vVPOLJIpLC0WEb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 01:27:38 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -3452,13 +3504,21 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "W/\"h1JA5x/6AgVDdJcY7p0oEAGC4sacKILNNCzOP2d8rlM=\""
+=======
+          "Value": "W/\"hl7drqW13K9kbjmjgUTk6C3kFYN8xvyEkY9HOSq+HEc=\""
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-h1JA5x/6AgVDdJcY7p0oEAGC4sacKILNNCzOP2d8rlM="
+=======
+          "Value": "sha256-hl7drqW13K9kbjmjgUTk6C3kFYN8xvyEkY9HOSq+HEc="
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         }
       ]
     },
@@ -3473,7 +3533,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "10492"
+=======
+          "Value": "23259"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Content-Type",
@@ -3481,11 +3545,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"h1JA5x/6AgVDdJcY7p0oEAGC4sacKILNNCzOP2d8rlM=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Thu, 26 Dec 2024 15:40:46 GMT"
+=======
+          "Value": "\"hl7drqW13K9kbjmjgUTk6C3kFYN8xvyEkY9HOSq+HEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 01:27:38 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -3495,13 +3567,21 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-h1JA5x/6AgVDdJcY7p0oEAGC4sacKILNNCzOP2d8rlM="
+=======
+          "Value": "sha256-hl7drqW13K9kbjmjgUTk6C3kFYN8xvyEkY9HOSq+HEc="
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         }
       ]
     },
     {
       "Route": "css/output.css.gz",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\2py1szxx81-fesj4qlfpv.gz",
+=======
+      "AssetFile": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\2py1szxx81-id692dc2gy.gz",
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3510,7 +3590,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "3018"
+=======
+          "Value": "5385"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Content-Type",
@@ -3518,11 +3602,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"BW76GEsDq9W6uzbrvYutrHKwc4tMVINUQAVHOoueuMI=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Thu, 26 Dec 2024 15:40:46 GMT"
+=======
+          "Value": "\"Y5EEF/RfVks8l3iFTTSq+yJi4Ff7vVPOLJIpLC0WEb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 01:27:38 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -3540,18 +3632,31 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-BW76GEsDq9W6uzbrvYutrHKwc4tMVINUQAVHOoueuMI="
+=======
+          "Value": "sha256-Y5EEF/RfVks8l3iFTTSq+yJi4Ff7vVPOLJIpLC0WEb0="
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         }
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "css/output.fesj4qlfpv.css",
       "AssetFile": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\2py1szxx81-fesj4qlfpv.gz",
+=======
+      "Route": "css/output.id692dc2gy.css",
+      "AssetFile": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\2py1szxx81-id692dc2gy.gz",
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
+<<<<<<< HEAD
           "Quality": "0.000331235508"
+=======
+          "Quality": "0.000185666543"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         }
       ],
       "ResponseHeaders": [
@@ -3561,6 +3666,7 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "3018"
         },
         {
@@ -3570,6 +3676,17 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 26 Dec 2024 15:40:46 GMT"
+=======
+          "Value": "5385"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y5EEF/RfVks8l3iFTTSq+yJi4Ff7vVPOLJIpLC0WEb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 01:27:38 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -3589,13 +3706,21 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "W/\"h1JA5x/6AgVDdJcY7p0oEAGC4sacKILNNCzOP2d8rlM=\""
+=======
+          "Value": "W/\"hl7drqW13K9kbjmjgUTk6C3kFYN8xvyEkY9HOSq+HEc=\""
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
           "Value": "fesj4qlfpv"
+=======
+          "Value": "id692dc2gy"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "label",
@@ -3603,12 +3728,20 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-h1JA5x/6AgVDdJcY7p0oEAGC4sacKILNNCzOP2d8rlM="
+=======
+          "Value": "sha256-hl7drqW13K9kbjmjgUTk6C3kFYN8xvyEkY9HOSq+HEc="
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         }
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "css/output.fesj4qlfpv.css",
+=======
+      "Route": "css/output.id692dc2gy.css",
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "AssetFile": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\wwwroot\\css\\output.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3618,7 +3751,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "10492"
+=======
+          "Value": "23259"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Content-Type",
@@ -3626,11 +3763,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"h1JA5x/6AgVDdJcY7p0oEAGC4sacKILNNCzOP2d8rlM=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Thu, 26 Dec 2024 15:40:46 GMT"
+=======
+          "Value": "\"hl7drqW13K9kbjmjgUTk6C3kFYN8xvyEkY9HOSq+HEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 01:27:38 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -3640,7 +3785,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
           "Value": "fesj4qlfpv"
+=======
+          "Value": "id692dc2gy"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "label",
@@ -3648,13 +3797,22 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-h1JA5x/6AgVDdJcY7p0oEAGC4sacKILNNCzOP2d8rlM="
+=======
+          "Value": "sha256-hl7drqW13K9kbjmjgUTk6C3kFYN8xvyEkY9HOSq+HEc="
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         }
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "css/output.fesj4qlfpv.css.gz",
       "AssetFile": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\2py1szxx81-fesj4qlfpv.gz",
+=======
+      "Route": "css/output.id692dc2gy.css.gz",
+      "AssetFile": "C:\\Users\\aliyl\\OneDrive - Dai Teknoloji\\Desktop\\CRMSardis\\obj\\Debug\\net9.0\\compressed\\2py1szxx81-id692dc2gy.gz",
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3663,7 +3821,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "3018"
+=======
+          "Value": "5385"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Content-Type",
@@ -3671,11 +3833,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"BW76GEsDq9W6uzbrvYutrHKwc4tMVINUQAVHOoueuMI=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Thu, 26 Dec 2024 15:40:46 GMT"
+=======
+          "Value": "\"Y5EEF/RfVks8l3iFTTSq+yJi4Ff7vVPOLJIpLC0WEb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 01:27:38 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -3693,7 +3863,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
           "Value": "fesj4qlfpv"
+=======
+          "Value": "id692dc2gy"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "label",
@@ -3701,7 +3875,11 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-BW76GEsDq9W6uzbrvYutrHKwc4tMVINUQAVHOoueuMI="
+=======
+          "Value": "sha256-Y5EEF/RfVks8l3iFTTSq+yJi4Ff7vVPOLJIpLC0WEb0="
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         }
       ]
     },
@@ -3730,7 +3908,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -3791,7 +3973,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -3836,7 +4022,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -3891,7 +4081,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -3944,7 +4138,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -3981,7 +4179,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4028,7 +4230,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:40:38 GMT"
+=======
+          "Value": "Wed, 25 Dec 2024 00:02:41 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4081,7 +4287,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:40:38 GMT"
+=======
+          "Value": "Wed, 25 Dec 2024 00:02:41 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4118,7 +4328,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:40:38 GMT"
+=======
+          "Value": "Wed, 25 Dec 2024 00:02:41 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4165,7 +4379,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:40:38 GMT"
+=======
+          "Value": "Wed, 25 Dec 2024 00:02:41 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4226,7 +4444,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:40:38 GMT"
+=======
+          "Value": "Wed, 25 Dec 2024 00:02:41 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4271,7 +4493,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:40:38 GMT"
+=======
+          "Value": "Wed, 25 Dec 2024 00:02:41 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4326,7 +4552,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4387,7 +4617,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4432,7 +4666,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4487,7 +4725,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4540,7 +4782,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4577,7 +4823,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4624,7 +4874,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4677,7 +4931,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4714,7 +4972,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4761,7 +5023,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4822,7 +5088,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4867,7 +5137,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4922,7 +5196,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -4983,7 +5261,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5028,7 +5310,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5083,7 +5369,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5136,7 +5426,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5175,7 +5469,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5236,7 +5534,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5281,7 +5583,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5334,7 +5640,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5381,7 +5691,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5434,7 +5748,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5471,7 +5789,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5518,7 +5840,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5571,7 +5897,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5610,7 +5940,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5671,7 +6005,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5716,7 +6054,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5769,7 +6111,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5816,7 +6162,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5869,7 +6219,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5906,7 +6260,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -5953,7 +6311,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6014,7 +6376,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6059,7 +6425,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6114,7 +6484,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6167,7 +6541,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6206,7 +6584,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6267,7 +6649,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6312,7 +6698,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6365,7 +6755,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6412,7 +6806,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6465,7 +6863,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6502,7 +6904,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6549,7 +6955,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6610,7 +7020,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6655,7 +7069,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6710,7 +7128,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6763,7 +7185,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6802,7 +7228,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6863,7 +7293,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6908,7 +7342,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -6961,7 +7399,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7008,7 +7450,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7061,7 +7507,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7098,7 +7548,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7145,7 +7599,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7206,7 +7664,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7251,7 +7713,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7306,7 +7772,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7359,7 +7829,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7398,7 +7872,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7459,7 +7937,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7504,7 +7986,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7557,7 +8043,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7604,7 +8094,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7657,7 +8151,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7694,7 +8192,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7741,7 +8243,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7802,7 +8308,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7847,7 +8357,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7902,7 +8416,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7955,7 +8473,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -7994,7 +8516,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8055,7 +8581,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8100,7 +8630,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8153,7 +8687,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8200,7 +8738,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8253,7 +8795,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8290,7 +8836,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8337,7 +8887,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8390,7 +8944,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8429,7 +8987,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8490,7 +9052,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8535,7 +9101,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8588,7 +9158,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8635,7 +9209,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8688,7 +9266,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8725,7 +9307,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8772,7 +9358,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8825,7 +9415,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8862,7 +9456,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8909,7 +9507,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -8970,7 +9572,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9015,7 +9621,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9070,7 +9680,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9123,7 +9737,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9160,7 +9778,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9207,7 +9829,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9268,7 +9894,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9313,7 +9943,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9368,7 +10002,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9429,7 +10067,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9474,7 +10116,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9529,7 +10175,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9590,7 +10240,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9635,7 +10289,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9690,7 +10348,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9743,7 +10405,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9780,7 +10446,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9827,7 +10497,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9880,7 +10554,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9917,7 +10595,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -9964,7 +10646,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10025,7 +10711,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10070,7 +10760,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10125,7 +10819,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10186,7 +10884,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10231,7 +10933,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10286,7 +10992,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10339,7 +11049,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10378,7 +11092,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10439,7 +11157,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10484,7 +11206,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10537,7 +11263,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10584,7 +11314,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10637,7 +11371,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10674,7 +11412,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10721,7 +11463,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10782,7 +11528,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10827,7 +11577,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10882,7 +11636,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10935,7 +11693,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -10972,7 +11734,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11019,7 +11785,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11080,7 +11850,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11125,7 +11899,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11180,7 +11958,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11233,7 +12015,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11270,7 +12056,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11317,7 +12107,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11378,7 +12172,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11423,7 +12221,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11478,7 +12280,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11531,7 +12337,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11568,7 +12378,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11615,7 +12429,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11668,7 +12486,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11705,7 +12527,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11752,7 +12578,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11813,7 +12643,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11858,7 +12692,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11913,7 +12751,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -11974,7 +12816,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12019,7 +12865,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12074,7 +12924,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12127,7 +12981,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12164,7 +13022,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12211,7 +13073,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12264,7 +13130,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12301,7 +13171,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12348,7 +13222,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12409,7 +13287,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12454,7 +13336,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12509,7 +13395,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12570,7 +13460,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12615,7 +13509,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12670,7 +13568,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12723,7 +13625,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12760,7 +13666,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12807,7 +13717,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12860,7 +13774,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12897,7 +13815,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -12944,7 +13866,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13005,7 +13931,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13050,7 +13980,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13105,7 +14039,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13166,7 +14104,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13211,7 +14153,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13266,7 +14212,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13319,7 +14269,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13356,7 +14310,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13403,7 +14361,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13464,7 +14426,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13509,7 +14475,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13564,7 +14534,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13617,7 +14591,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13654,7 +14632,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13701,7 +14683,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13754,7 +14740,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13793,7 +14783,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13854,7 +14848,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13899,7 +14897,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13952,7 +14954,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -13999,7 +15005,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14052,7 +15062,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14089,7 +15103,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14136,7 +15154,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14197,7 +15219,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14242,7 +15268,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14297,7 +15327,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14358,7 +15392,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14403,7 +15441,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14458,7 +15500,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14519,7 +15565,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14564,7 +15614,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14619,7 +15673,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14672,7 +15730,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14711,7 +15773,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14772,7 +15838,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14817,7 +15887,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14870,7 +15944,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14917,7 +15995,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -14970,7 +16052,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15007,7 +16093,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15054,7 +16144,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15115,7 +16209,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15160,7 +16258,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15215,7 +16317,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15268,7 +16374,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15305,7 +16415,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15352,7 +16466,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15413,7 +16531,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15458,7 +16580,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15513,7 +16639,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15566,7 +16696,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15603,7 +16737,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15650,7 +16788,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15703,7 +16845,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15740,7 +16886,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15787,7 +16937,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15848,7 +17002,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15893,7 +17051,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -15948,7 +17110,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16001,7 +17167,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16038,7 +17208,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16085,7 +17259,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16146,7 +17324,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16191,7 +17373,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16246,7 +17432,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16299,7 +17489,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16336,7 +17530,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16383,7 +17581,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16436,7 +17638,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16473,7 +17679,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16520,7 +17730,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16581,7 +17795,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16626,7 +17844,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16681,7 +17903,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16742,7 +17968,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16787,7 +18017,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16842,7 +18076,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16895,7 +18133,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16932,7 +18174,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -16979,7 +18225,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17040,7 +18290,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17085,7 +18339,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17140,7 +18398,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17193,7 +18455,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17230,7 +18496,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17277,7 +18547,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17338,7 +18612,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17383,7 +18661,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17438,7 +18720,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17491,7 +18777,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17530,7 +18820,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17591,7 +18885,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17636,7 +18934,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17689,7 +18991,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17736,7 +19042,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17789,7 +19099,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17826,7 +19140,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17873,7 +19191,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17934,7 +19256,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -17979,7 +19305,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18032,7 +19362,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18069,7 +19403,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18116,7 +19454,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18177,7 +19519,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18222,7 +19568,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18277,7 +19627,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18330,7 +19684,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18367,7 +19725,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18414,7 +19776,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18475,7 +19841,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18520,7 +19890,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18575,7 +19949,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18628,7 +20006,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18665,7 +20047,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18712,7 +20098,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18773,7 +20163,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18818,7 +20212,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18873,7 +20271,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18926,7 +20328,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -18963,7 +20369,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19010,7 +20420,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19071,7 +20485,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19116,7 +20534,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19171,7 +20593,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19224,7 +20650,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19261,7 +20691,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19308,7 +20742,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19361,7 +20799,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19398,7 +20840,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19445,7 +20891,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19506,7 +20956,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19551,7 +21005,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19606,7 +21064,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19659,7 +21121,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19696,7 +21162,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19743,7 +21213,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19804,7 +21278,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19849,7 +21327,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19904,7 +21386,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -19965,7 +21451,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20010,7 +21500,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20065,7 +21559,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20118,7 +21616,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20155,7 +21657,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20202,7 +21708,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20255,7 +21765,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20292,7 +21806,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20339,7 +21857,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20400,7 +21922,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20445,7 +21971,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20500,7 +22030,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20561,7 +22095,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20606,7 +22144,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20661,7 +22203,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20714,7 +22260,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20751,7 +22301,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20798,7 +22352,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20851,7 +22409,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20888,7 +22450,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20935,7 +22501,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -20988,7 +22558,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21025,7 +22599,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21072,7 +22650,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21133,7 +22715,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21178,7 +22764,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21233,7 +22823,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21294,7 +22888,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21339,7 +22937,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21394,7 +22996,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21455,7 +23061,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21500,7 +23110,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21555,7 +23169,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21608,7 +23226,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21645,7 +23267,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21692,7 +23318,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21753,7 +23383,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21798,7 +23432,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21853,7 +23491,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21906,7 +23548,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21943,7 +23589,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -21990,7 +23640,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -22043,7 +23697,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -22080,7 +23738,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -22127,7 +23789,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -22188,7 +23854,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -22233,7 +23903,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -22288,7 +23962,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -22349,7 +24027,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -22394,7 +24076,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -22449,7 +24135,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -22502,7 +24192,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",
@@ -22539,7 +24233,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 26 Dec 2024 15:33:38 GMT"
+=======
+          "Value": "Tue, 24 Dec 2024 14:28:50 GMT"
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
         },
         {
           "Name": "Cache-Control",

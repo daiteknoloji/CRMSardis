@@ -1,6 +1,7 @@
 @model IEnumerable<CRMSardis.Models.User>
 
 @{
+<<<<<<< HEAD
     ViewData["Title"] = "Kullanıcı Yönetimi";
 }
 
@@ -44,3 +45,29 @@
         </tbody>
     </table>
 </div>
+=======
+    ViewData["Title"] = "Kullanıcı Listesi";
+}
+
+<h2>Kullanıcı Listesi</h2>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Ad</th>
+            <th>E-posta</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)

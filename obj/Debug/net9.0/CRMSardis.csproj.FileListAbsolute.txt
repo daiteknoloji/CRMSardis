@@ -1,5 +1,20 @@
+<<<<<<< HEAD
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\appsettings.json
+=======
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\CRMSardis.csproj.AssemblyReference.cache
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\CRMSardis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\CRMSardis.AssemblyInfoInputs.cache
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\CRMSardis.AssemblyInfo.cs
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\CRMSardis.csproj.CoreCompileInputs.cache
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\CRMSardis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\CRMSardis.RazorAssemblyInfo.cache
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\CRMSardis.RazorAssemblyInfo.cs
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\appsettings.json
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\package-lock.json
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\package.json
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\CRMSardis.staticwebassets.runtime.json
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\CRMSardis.staticwebassets.endpoints.json
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\CRMSardis.exe
@@ -10,7 +25,10 @@ C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\CRMSa
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\Azure.Identity.dll
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\Humanizer.dll
+<<<<<<< HEAD
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+=======
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\Microsoft.Build.Locator.dll
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
@@ -129,6 +147,7 @@ C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\runti
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+<<<<<<< HEAD
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\CRMSardis.csproj.AssemblyReference.cache
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\CRMSardis.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\CRMSardis.AssemblyInfoInputs.cache
@@ -142,6 +161,10 @@ C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\scope
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\scopedcss\bundle\CRMSardis.styles.css
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\scopedcss\projectbundle\CRMSardis.bundle.scp.css
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\compressed\2py1szxx81-fesj4qlfpv.gz
+=======
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\scopedcss\bundle\CRMSardis.styles.css
+C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\compressed\2py1szxx81-id692dc2gy.gz
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\compressed\k1w4oygz4l-b9sayid5wm.gz
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\compressed\1pivhtfom3-mh4zefqudq.gz
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\compressed\bet1k46abs-61n19gt1b8.gz
@@ -205,8 +228,11 @@ C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\compr
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\compressed\jh82g01qf4-muycvpuwrr.gz
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\compressed\66b7wc1sw6-87fc7y1x7t.gz
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\compressed\y407jo80yz-mlv21k5csn.gz
+<<<<<<< HEAD
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\compressed\xhvhk6e2th-bdhd1sk5nq.gz
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\compressed\iwdvshgxxg-bdhd1sk5nq.gz
+=======
+>>>>>>> 710e3ed (Proje dosyalarını ekledim)
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\aliyl\OneDrive - Dai Teknoloji\Desktop\CRMSardis\obj\Debug\net9.0\staticwebassets.build.endpoints.json
